@@ -1,4 +1,2 @@
 /.vscode
-/even_odd.exe
-/memo_and_momo.exe
-/next_alphabat.exe
+*.exe
